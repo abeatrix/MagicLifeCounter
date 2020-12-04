@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "toripuru",
-    "slug": "toripuru",
+    "name": "lifecounter",
+    "slug": "lifecounter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
